@@ -3,11 +3,10 @@
 ### About me. :information_desk_person:
 - I'm 34 year old developer from Moscow :european_castle:
 - I learn Java :coffee: at [Job4j](https://job4j.ru/)
--
+
 ### Core technologies:
 - Java 17
 - Maven
-- Git
 - PostgreSQL
 
 <!--
