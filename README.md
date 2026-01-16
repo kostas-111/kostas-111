@@ -1,13 +1,21 @@
 ## Hi! 👋 My name is Konstantin! Welcome! :fish:
 
 ### About me. :information_desk_person:
-- I'm 34 year old developer from Moscow :european_castle:
-- I learn Java :coffee: at [Job4j](https://job4j.ru/)
+- I'm 36 year old developer from Moscow :european_castle:
 
 ### Core technologies:
-- Java 17
+- Java 11, 17, 21
+- PostgreSQL 11
+- Liqiubase
 - Maven
-- PostgreSQL
+- Gradle
+- Spring Framework
+- Kubernetes
+- Microservices
+- RabbitMQ
+- Docker
+- Linux
+
 
 <!--
 **kostas-111/kostas-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
