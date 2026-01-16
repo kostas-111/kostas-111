@@ -51,19 +51,6 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kostas-111&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kostas-111&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kostas-111&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🏆 Certifications
 - **Job4j** - Java Backend Developer & DevPos
 - **Postgres Professional Certification**
@@ -79,7 +66,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galkink370@gmail.com)
 
 ---
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=kostas-111&hide=stars,prs,issues,contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kostas-111&layout=compact)](https://github.com/ShamRail/github-readme-stats)
